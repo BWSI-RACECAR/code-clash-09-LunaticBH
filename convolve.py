@@ -44,7 +44,7 @@ Prompt
 [TODO] #2 Implement a search algorithm given probModelAX to determine the time to completion (timeModelAX) with 90% probability of confidence. 
 """
 
-import matplotlib.pyplot as plt 
+#import matplotlib.pyplot as plt 
 
 class DataInput:
     def __init__(self):
